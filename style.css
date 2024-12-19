@@ -419,6 +419,8 @@ iframe {
     display: flex;
     height: auto;
     align-content: flex-start;
+    padding-top: 40px;
+    padding-bottom: 40px;
   }
 
   .foot {
